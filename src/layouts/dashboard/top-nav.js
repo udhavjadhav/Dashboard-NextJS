@@ -66,7 +66,7 @@ export const TopNav = (props) => {
                 </SvgIcon>
               </IconButton>
             )}
-           <Typography sx={{m:4, color: '#000'}} variant='h6'>Welcome, Udhav</Typography>
+           <Typography sx={{m:4, color: '#000'}} variant='h6'>Welcome UJ</Typography>
           </Stack>
           <Stack
             alignItems="center"
